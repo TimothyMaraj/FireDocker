@@ -8,7 +8,7 @@ Contributors who helped get this project off the ground:
 - [@TimothyMaraj](https://github.com/TimothyMaraj), [Timothy Maraj](https://www.linkedin.com/in/timothymaraj/)
 - [@Jazmin-P](https://github.com/Jazmin-P), [Jazmin Pacheco](https://www.linkedin.com/in/jazmin-pacheco/)
 - [@kimchee-e](https://github.com/kimchee-e), [Kim Stevenson](https://www.linkedin.com/in/kimberly-stevenson-cs/)
-- [@asm200-txstate](https://www.linkedin.com/in/axel-sanchez-moreno/), [Axel Sanchez Moreno](https://www.linkedin.com/in/axel-sanchez-moreno/)
+- [@asm200-txstate](https://github.com/asm200-txstate), [Axel Sanchez Moreno](https://www.linkedin.com/in/axel-sanchez-moreno/)
 
 ## Description
 
