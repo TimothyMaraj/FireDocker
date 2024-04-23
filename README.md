@@ -1,5 +1,7 @@
 # FireDocker
 
+This project was forked from the og project that I contributed to in Cybersecurity at TXST. This is so I can make my changes and guide this project toward my original vision. 
+
 ## Description
 
 SecDocker acts as an application firewall, monitoring and filtering Docker commands to prevent unauthorized or potentially harmful actions, thereby enhancing the security posture of CI environments without impeding development efficiency. We have updated the codebase to remove deprecated library features and implemented new ones, we have made better integration with the docker daemon and validated the JSON config configurations.
