@@ -2,6 +2,14 @@
 
 This project was forked from the og project that I contributed to in Cybersecurity at TXST. This is so I can make my changes and guide this project toward my original vision. 
 
+Contributers who helped get this project off the ground: 
+
+- [@racheljewell](https://www.linkedin.com/in/rejewell/), Rachel Jewell
+- [@TimothyMaraj](https://github.com/TimothyMaraj), Timothy Maraj
+- [@Jazmin-P](https://www.linkedin.com/in/jazmin-pacheco/), Jazmin Pacheco
+- [@kimchee-e](https://www.linkedin.com/in/kimberly-stevenson-cs/), Kim Stevenson
+- [@asm200-txstate](https://www.linkedin.com/in/axel-sanchez-moreno/), Axel Sanchez Moreno
+
 ## Description
 
 SecDocker acts as an application firewall, monitoring and filtering Docker commands to prevent unauthorized or potentially harmful actions, thereby enhancing the security posture of CI environments without impeding development efficiency. We have updated the codebase to remove deprecated library features and implemented new ones, we have made better integration with the docker daemon and validated the JSON config configurations.
